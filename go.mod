@@ -13,5 +13,5 @@ require (
 	golang.org/x/sync v0.0.0-20201207232520-09787c993a3a // indirect
 	golang.org/x/text v0.3.4 // indirect
 	golang.org/x/tools v0.0.0-20200916195026-c9a70fc28ce3 // indirect
-	google.golang.org/genproto v0.0.0-20200527145253-8367513e4ece
+	google.golang.org/genproto v0.0.0-20260928230214-8a89bd6388cc
 )
