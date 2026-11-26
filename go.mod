@@ -4,7 +4,7 @@ go 1.16
 
 require (
 	cloud.google.com/go v0.57.0
-	cloud.google.com/go/storage v1.6.0
+	cloud.google.com/go/storage v1.71.1
 	github.com/bazelbuild/bazelisk v1.7.4
 	github.com/golang/protobuf v1.4.1
 	github.com/google/go-cmp v0.5.2 // indirect
